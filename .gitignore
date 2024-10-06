@@ -1,5 +1,8 @@
 .vscode
-/Assets
+/Assets/Prefabs/*
+/Assets/Scenes/*
+/Assets/Sprites/*
+/Assets/Scripts/*
 /Packages
 Unity.*
 UnityEngine.*
