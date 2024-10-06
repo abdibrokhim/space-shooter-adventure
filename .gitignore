@@ -1,8 +1,9 @@
 .vscode
-/Assets/Prefabs/*
-/Assets/Scenes/*
-/Assets/Sprites/*
-/Assets/Scripts/*
+/Assets/Prefabs/
+/Assets/Scenes/
+/Assets/Sprites/
+/Assets/Scripts/
 /Packages
 Unity.*
 UnityEngine.*
+.DS_Store
